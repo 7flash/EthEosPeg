@@ -1,0 +1,5 @@
+.idea
+dump.rdb
+package-lock.json
+mnemonic
+node_modules

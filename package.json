@@ -1,0 +1,31 @@
+{
+  "name": "ethereum-eos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7flash/EthEosPeg.git"
+  },
+  "dependencies": {
+    "truffle": "^5.0.0",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5",
+    "web3": "^1.0.0-beta.37",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7flash/EthEosPeg/issues"
+  },
+  "homepage": "https://github.com/7flash/EthEosPeg#readme"
+}
